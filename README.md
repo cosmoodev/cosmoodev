@@ -1,4 +1,4 @@
-# Алексей Меркулов
+# cosmo
 
 **Начинающий frontend-разработчик**  
 HTML · CSS · Figma · JavaScript
